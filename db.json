@@ -1,0 +1,34 @@
+{
+  "pictures": [
+    {
+      "artist": "SenzooRecords",
+      "year": "1995",
+      "photo": "https://picsum.photos/400/340",
+      "id": 13
+    },
+    {
+      "artist": "Carter",
+      "year": "1995",
+      "photo": "https://picsum.photos/400/348",
+      "id": 14
+    },
+    {
+      "artist": "Error",
+      "year": "404",
+      "photo": "https://picsum.photos/400/396",
+      "id": 15
+    },
+    {
+      "artist": "Martin Eden",
+      "year": "2015",
+      "photo": "https://picsum.photos/400/385",
+      "id": 16
+    },
+    {
+      "artist": "Nouvelle photo",
+      "year": "2023",
+      "photo": "https://picsum.photos/400/499",
+      "id": 17
+    }
+  ]
+}
